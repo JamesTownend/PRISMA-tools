@@ -13,4 +13,4 @@ The notebook operates on PRISMA L2D data. It will need to be modified to work wi
 
 See `PRISMA_visualisation.ipynb`
 
-The hyperspectral cube captured by PRISMA is difficult to explore with static visualisation tools. Use this notebook explore the cube and spectrograms with some handy hvplots.
+The hyperspectral cube captured by PRISMA is difficult to explore with static visualisation tools. Use this notebook explore the cube and spectrograms with some interactive hvplots.
