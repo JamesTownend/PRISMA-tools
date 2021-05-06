@@ -1,4 +1,8 @@
-# PRISMA: Convert from HDF-EOS to netCDF format
+# PRISMA Tools
+
+A collection of notebooks to process, explore and manipulate the hyperspectral data captured by the Italian Space Agency's [PRISMA satellite](http://prisma-i.it/index.php/en/).
+
+## Convert from HDF-EOS to netCDF format
 
 See `PRISMA_HDFEOS_to_netCDF.ipynb`
 
@@ -9,7 +13,7 @@ PRISMA data is delivered as an HDF5 file with an internal structure that can't b
 
 The notebook operates on PRISMA L2D data. It will need to be modified to work with other processing levels due to different naming conventions within the PRISMA HDF file.
 
-# PRISMA: Visualisation tools
+## Visualisation tools
 
 See `PRISMA_visualisation.ipynb`
 
